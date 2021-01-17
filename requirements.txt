@@ -32,7 +32,7 @@ kombu==5.0.2
 nodeenv==1.5.0
 packaging==20.8
 Pillow==8.0.1
-playwright==0.162.2
+
 pluggy==0.13.1
 pre-commit==2.9.3
 prompt-toolkit==3.0.10
