@@ -1,4 +1,4 @@
-<h1 align="center" >Fantastic Django Blog 👏</h1>
+<h1 align="center" >Django Blog 👏</h1>
 
 [![Build Status](https://travis-ci.com/kumaraditya303/Fantastic-Django-Blog.svg?token=Tp128txvcHsePdipY3xq&branch=master)](https://travis-ci.com/kumaraditya303/Fantastic-Django-Blog)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kumaraditya303/Fantastic-Django-Blog&identifier=280406434)](https://dependabot.com)
